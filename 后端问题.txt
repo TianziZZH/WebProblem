@@ -2,4 +2,4 @@
  第几章第几节---代码部分---问题描述
 5-3-2：@JoinColumn(nullable = "originId")---这里的oiginId什么意思，和谁关联，怎么关联
             已解决 --- 语法错误 nullable改为name，意思表表关联
-            test
+            
